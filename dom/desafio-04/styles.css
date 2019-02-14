@@ -1,0 +1,57 @@
+#efeito {
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+}
+
+.destaque {
+	background-color: red;
+	width: 200px !important;
+}
+
+.encolher {
+	background-color: gray;
+	width: 50px !important;
+}
+
+.classeA {
+	background-color: blue;
+}
+
+.classeB {
+	color: white;
+}
+
+.A {
+	height: 20px;
+	width: 200px;
+	background-color: green;
+}
+
+.B {
+	height: 10px;
+	width: 100px;
+	background-color: yellow;
+}
+
+.C {
+	height: 30px;
+	width: 50px;
+	background-color: purple;
+}
+
+.D {
+	font-size: 20px;
+}
+
+.wrapper {
+	width: 300px;
+	height: 30px;
+	background-color: white;
+	border: 1px solid;
+}
+
+.loader {
+	height: 30px;
+	background-color: green;
+}
